@@ -1,8 +1,8 @@
 ![Image description](https://github.com/nathalis/NesCat/raw/main/NESCAT_icon.png)
 
-## Credits:
-## NesCat 0.5
-## NESCAT (Original version) by Nathalis
+# Credits:
+# NesCat 0.5
+# NESCAT (Original version) by Nathalis
 
 Requirements: 
 1. ESP32-WROOM-32
@@ -21,3 +21,7 @@ Requirements:
 - PS4 DualShock BlueTooth Gamepad (experimental)
 
 Only for personal & educational use!
+
+## Good to know
+1. ESP32 Dev Module > 1.0.3
+https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
